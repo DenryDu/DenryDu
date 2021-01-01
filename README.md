@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 * <a href='#' target='_blank'>[Python] | HungyiLi 机器学习</a> - 2020-05-28
 * <a href='#' target='_blank'>[C++] | PAT题库</a> - 2020-05-28
 * <a href='#' target='_blank'>[Python\C++] | 计算机视觉</a> - 2020-05-28
-
+* <a href='#' target='_blank'>[Python] | 爬虫</a> - 2020-05-28
+* <a href='#' target='_blank'>[Python-GBDT] | 用户行为挖掘</a> - 2020-05-28
 </td>
 </tr>
 
