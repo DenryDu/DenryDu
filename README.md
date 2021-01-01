@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 <table width="800px">
-<tr width="100%>
+<tr width="100%">
   
 <td valign="top" width="50%">
 
@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 <td valign="top" width="50%">
 
 #### 课外
-
-
-
 
 * xxx
 
