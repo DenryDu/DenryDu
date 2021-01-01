@@ -10,12 +10,28 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 
 <table>
-  <tr>
+<tr>
+<th>项目类别
+    </th>
     <th>
-      项目类别
+      课内（NJUPT）
+    </th>
+    <th>
+      课外
     </th>
   </tr>
-</table>
+  <tr>
+       <td>
+      项目类别
+    </td>
+    <td>
+      课内（NJUPT）
+    </td>
+    <td>
+      课外
+    </td>
+  </tr>
+   </table>
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
