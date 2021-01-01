@@ -9,29 +9,20 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 
-<table>
+<table width="800px">
 <tr>
-<th>项目类别
-    </th>
-    <th>
-      课内（NJUPT）
-    </th>
-    <th>
-      课外
-    </th>
-  </tr>
-  <tr>
-       <td>
-      项目类别
+    <td valign="top" width="50%">
+        #### 课内
+        * xxx
+        * xxx
     </td>
-    <td>
-      课内（NJUPT）
+    <td valign="top" width="50%">
+        #### 课外
+        * xxx
+        * xxx
     </td>
-    <td>
-      课外
-    </td>
-  </tr>
-   </table>
+</tr>
+</table>
   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
