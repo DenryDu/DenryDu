@@ -17,26 +17,26 @@ Here are some ideas to get you started:
 #### 课内(NJUPT)
 
 🔭 学习过程 ...
-* <a href='#' target='_blank'>[Java-SSM]软件项目实训之慢病智慧健康系统</a> - 2020-05-28
-* <a href='#' target='_blank'>[C++]数据结构实验</a> - 2020-05-28
-* <a href='#' target='_blank'>[C++]编译原理实验</a> - 2020-05-28
-* <a href='#' target='_blank'>[C++]操作系统实验</a> - 2020-05-28
-* <a href='#' target='_blank'>[Java]Android</a> - 2020-05-28
+* <a href='#' target='_blank'>[Java-SSM] | 软件项目实训之慢病智慧健康系统</a> - 2020-05-28
+* <a href='#' target='_blank'>[C++] | 数据结构实验</a> - 2020-05-28
+* <a href='#' target='_blank'>[C++] | 编译原理实验</a> - 2020-05-28
+* <a href='#' target='_blank'>[C++] | 操作系统实验</a> - 2020-05-28
+* <a href='#' target='_blank'>[Java] | Android</a> - 2020-05-28
 </td>
 
 <td valign="top" width="50%">
 
 #### 课外
 🔭 I’m currently working on ...
-* <a href='#' target='_blank'>[Python]STITP-语音分离</a> - 2020-12-28
+* <a href='#' target='_blank'>[Python] | STITP-语音分离</a> - 2020-12-28
 
 ✨ I'm preparing myself for ...
-* <a href='#' target='_blank'>[Matlab]数模</a> - 2020-05-28
+* <a href='#' target='_blank'>[Matlab] | 数模</a> - 2020-05-28
 
 🌱 I’m currently learning ...
-* <a href='#' target='_blank'>[Python]HungyiLi 机器学习</a> - 2020-05-28
-* <a href='#' target='_blank'>[C++]PAT题库</a> - 2020-05-28
-* <a href='#' target='_blank'>[Python\C++]计算机视觉</a> - 2020-05-28
+* <a href='#' target='_blank'>[Python] | HungyiLi 机器学习</a> - 2020-05-28
+* <a href='#' target='_blank'>[C++] | PAT题库</a> - 2020-05-28
+* <a href='#' target='_blank'>[Python\C++] | 计算机视觉</a> - 2020-05-28
 
 </td>
 </tr>
