@@ -11,16 +11,16 @@ Here are some ideas to get you started:
 
 <table width="800px">
 <tr>
-    <td valign="top" width="50%">
-        #### 课内
-        * xxx
-        * xxx
-    </td>
-    <td valign="top" width="50%">
-        #### 课外
-        * xxx
-        * xxx
-    </td>
+<td valign="top" width="50%">
+#### 课内
+* xxx
+* xxx
+</td>
+<td valign="top" width="50%">
+#### 课外
+* xxx
+* xxx
+</td>
 </tr>
 </table>
   
