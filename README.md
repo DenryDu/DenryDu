@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 <table width="800px">
-<tr>
+<tr width="100%>
   
 <td valign="top" width="50%">
 
