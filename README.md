@@ -12,11 +12,15 @@ Here are some ideas to get you started:
 <table width="800px">
 <tr>
 <td valign="top" width="50%">
-#### 课内
+
+
+
+#### 课内(NJUPT)
 * xxx
 * xxx
 </td>
 <td valign="top" width="50%">
+
 #### 课外
 * xxx
 * xxx
