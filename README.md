@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🔭 学习过程 ...
 * <a href='#' target='_blank'>[Java-SSM] | 软件项目实训之慢病智慧健康系统</a> - 2020-05-28
 * <a href='#' target='_blank'>[C++] | 数据结构实验</a> - 2020-05-28
-* <a href='#' target='_blank'>[C++] | 编译原理实验</a> - 2020-05-28
+* <a href='https://github.com/DenryDu/Compiling-principle-experiment' target='_blank'>[C++] | 编译原理实验</a> - 2020-05-28
 * <a href='#' target='_blank'>[C++] | 操作系统实验</a> - 2020-05-28
 * <a href='#' target='_blank'>[Java] | Android</a> - 2020-05-28
 </td>
